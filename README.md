@@ -14,7 +14,7 @@ It is built using HTML, CSS, and JavaScript.
    ```bash
    git clone https://github.com/rajrasane04/Task-Manager.git
 
-2. **Demo**
+2. **Demo:**
    https://rajrasane04.github.io/Task-Manager/
    
   ## Contributing
